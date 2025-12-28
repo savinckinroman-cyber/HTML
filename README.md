@@ -18,5 +18,5 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Last Commit](https://img.shields.io/github/last-commit/savinckinroman-cyber/html-portfolio)
+
 
