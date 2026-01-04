@@ -2,7 +2,7 @@
 
 Мои работы в HTML/CSS 
 
-# Технологии
+## Технологии
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-# Статус проекта
+## Статус проекта
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
